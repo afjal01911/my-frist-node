@@ -1,0 +1,17 @@
+{
+  "name": "class-6",
+  "version": "1.0.0",
+  "description": "npm init",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Afjal Hossen",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^4.7.0",
+    "movie-name": "^1.0.0",
+    "movies-names": "^1.1.1",
+    "random-fruits-name": "^1.9.5"
+  }
+}
